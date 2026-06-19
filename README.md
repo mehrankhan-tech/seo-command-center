@@ -1,1 +1,1 @@
-# seo-command-center
+index.html
